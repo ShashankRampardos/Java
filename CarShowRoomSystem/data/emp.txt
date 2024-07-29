@@ -1,0 +1,9 @@
+12|Janitor|m31|28|2|false
+11|Sales Person|alpha|23|2|23.0
+12|Janitor|beta|25|1|false
+14|Accounting Person|gama|34|22|false
+11|Accounting Person|delta|23|4|false
+18|Sales Person|delta2|45|33|234.0
+19|Sales Person|asfak|43|2|23.0
+20|Janitor|jay|23|2|true
+21|Accounting Person|rana|23|2|true

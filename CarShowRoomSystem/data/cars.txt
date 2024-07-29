@@ -1,0 +1,24 @@
+Toyota|Camry|Red|Petrol|25000.0|Sedan
+Honda|Accord|Silver|Petrol|28000.0|Sedan
+Chevrolet|Malibu|Black|Petrol|27000.0|Sedan
+BMW|3 Series|White|Petrol|35000.0|Sedan
+Toyota|Camry|Red|Petrol|25000.0|Sedan
+Ford|F150|Blue|Diesel|40000.0|Pickup
+Honda|Civic|Silver|Petrol|22000.0|Hatchback
+Chevrolet|Tahoe|Black|Petrol|55000.0|SUV
+Toyota|Corolla|Gray|Petrol|23000.0|Hatchback
+Ford|F150|Blue|Diesel|40000.0|Pickup
+Honda|Civic|Silver|Petrol|22000.0|Hatchback
+Chevrolet|Tahoe|Black|Petrol|55000.0|SUV
+BMW|X5|White|Petrol|60000.0|SUV
+Toyota|Camry|Red|Petrol|25000.0|Sedan
+Honda|Accord|Silver|Petrol|28000.0|Sedan
+Chevrolet|Malibu|Black|Petrol|27000.0|Sedan
+BMW|3 Series|White|Petrol|35000.0|Sedan
+Toyota|Corolla|Gray|Petrol|23000.0|Hatchback
+Ford|F150|Blue|Diesel|40000.0|Pickup
+Honda|Civic|Silver|Petrol|22000.0|Hatchback
+Chevrolet|Tahoe|Black|Petrol|55000.0|SUV
+BMW|X5|White|Petrol|60000.0|SUV
+SomethingNew|New|great|expensive|1.0|future
+franchie|bega|titanium|wow|2324234.0|ufo

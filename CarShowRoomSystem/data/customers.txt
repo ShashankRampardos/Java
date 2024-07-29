@@ -1,0 +1,13 @@
+John Doe|35|1234567890|Toyota Corolla|25000.0
+Alice Smith|28|9876543210|Honda Civic|22000.0
+Bob Johnson|40|5555555555|Ford Mustang|35000.0
+Emma Brown|45|4444444444|Chevrolet Malibu|28000.0
+Michael Williams|32|9999999999|Nissan Altima|23000.0
+Sarah Davis|38|7777777777|Volkswagen Jetta|27000.0
+David Miller|50|6666666666|Subaru Outback|32000.0
+Jennifer Wilson|36|3333333333|Hyundai Elantra|20000.0
+James Taylor|29|2222222222|Mazda CX-5|26000.0
+Emily Martinez|42|1111111111|Kia Sportage|29000.0
+baba|23|23235345|Fusion|234234.3
+zeta|34|23234234|Fusion|2.3423423E7
+omega|27|234234|x5|234234.0
